@@ -1,0 +1,28 @@
+# Keep proposal project files out of the reusable skill repository.
+00-inputs/
+01-extraction/
+02-matrix/
+03-drafts/
+04-review/
+05-final/
+
+# Common tender/client artifacts
+*.doc
+*.docx
+*.pdf
+*.xlsx
+*.xls
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+
+# Local workspace noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Device-specific local knowledge-base config
+local-knowledge-base.config.json

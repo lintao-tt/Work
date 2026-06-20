@@ -1,0 +1,11 @@
+{
+  "knowledge_base_roots": [
+    "D:\\BidKnowledgeBase",
+    "E:\\BidKnowledgeBase",
+    "C:\\Users\\<user>\\Documents\\BidKnowledgeBase"
+  ],
+  "preferred_root": "D:\\BidKnowledgeBase",
+  "index_file": "INDEX.md",
+  "catalog_file": "metadata\\reusable-materials.csv",
+  "mode": "read-only"
+}

@@ -1,0 +1,2 @@
+id,title,path,type,industry,technology,project_size_band,keywords,reuse_quality,confidentiality,last_reviewed,notes
+KB-001,Example implementation plan,templates/implementation-plan/README.md,template,general,general,standard,"implementation;milestone;delivery",needs review,internal,,Replace this example row.

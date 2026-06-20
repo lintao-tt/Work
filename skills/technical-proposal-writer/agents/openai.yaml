@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术标书写作助手"
+  short_description: "Draft tender technical proposals from requirements"
+  default_prompt: "Use $technical-proposal-writer to analyze a tender document, create a technical response matrix, and draft the technical proposal."
